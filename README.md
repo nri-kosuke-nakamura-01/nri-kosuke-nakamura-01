@@ -1,11 +1,11 @@
 Kosuke NAKAMURA
 ========================
 
-This is NOT private account.
+This is a business account.
 
 - softwear engineer at nri
 - java / kotlin / typescript / perl
 - spring-boot / react / vue / amon2
 - jooq / querydsl / mybatis / dbic / teng
-- postgresql / mysql
+- postgresql / mysql / solr
 - aws
